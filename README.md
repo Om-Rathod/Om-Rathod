@@ -53,3 +53,6 @@ I regularly work with React, Node.js, MongoDB, JavaScript, and integrate Salesfo
 
 ## 📌 Quick Note  
 If you’re interested in collaborating on a project (web apps, full-stack, or Salesforce), feel free to reach out!  
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Om-Rathod/Om-Rathod/blob/output/github-contribution-grid-snake.svg)
+
