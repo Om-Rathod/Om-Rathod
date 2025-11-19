@@ -4,23 +4,23 @@ Full-Stack Developer & Salesforce Administrator
 
 ---
 
-## 🏆 GitHub Trophies  
+## GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=Om-Rathod&theme=onedark&margin-w=15)
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Om-Rathod&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Rathod&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak  
+## GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Om-Rathod&theme=tokyonight)
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -31,19 +31,19 @@ Full-Stack Developer & Salesforce Administrator
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-rathod-a7b62b266/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om-Rathod)
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I’m **Om Rathod**, a Full-Stack Developer and Salesforce Administrator with a passion for building scalable web applications and enterprise solutions. On LinkedIn, you mention being a “Full Stack Developer | Salesforce administrator | Salesforce developer | Apex”. :contentReference[oaicite:0]{index=0}  
 I regularly work with React, Node.js, MongoDB, JavaScript, and integrate Salesforce solutions where required.
 
 ---
 
-## 🎯 What I’m Working On  
+## What I’m Working On  
 - Building the profile README (that’s this!)  
 - Enhancing my projects with better documentation & visuals  
 - Diving deeper into Salesforce Apex and admin tooling  
@@ -51,8 +51,8 @@ I regularly work with React, Node.js, MongoDB, JavaScript, and integrate Salesfo
 
 ---
 
-## 📌 Quick Note  
+## Quick Note  
 If you’re interested in collaborating on a project (web apps, full-stack, or Salesforce), feel free to reach out!  
-## 🐍 Contribution Snake
+## Contribution Snake
 ![snake gif](https://github.com/Om-Rathod/Om-Rathod/blob/output/github-contribution-grid-snake.svg)
 
